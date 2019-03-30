@@ -18,12 +18,16 @@ Referring to [Keras-image-ocr](https://github.com/Tony607/keras-image-ocr) readi
 
 ## Install packages
 ``` 
- * pip install -q cairocffi editdistance
- * apt install -q libcairo2-dev
- * apt install -q graphviz
- * pip install -q pydot
- * pip install -q matplotlib graphviz pydot
+ + pip install -q cairocffi editdistance
+ + apt install -q libcairo2-dev
+ + apt install -q graphviz
+ + pip install -q pydot
+ + pip install -q matplotlib graphviz pydot
 ```
+## Create image dataset
+
+![Alt text](read_pic/paint_text.png) 
+
 ## Some results
 
 ![Alt text](read_pic/machine.png) 
