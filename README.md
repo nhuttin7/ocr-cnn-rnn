@@ -15,3 +15,8 @@ RNN is a collection of GRU (or LSTM) blocks, GRU comprise of update gate, reset 
 ## Architecture Design
 Referring to [Keras-image-ocr](https://github.com/Tony607/keras-image-ocr) reading a lot of useful information from data images.
 ![Alt text](read_pic/arch.png)
+
+## Some results
+
+![Alt text](read_pic/machine.png) ![Alt text](read_pic/learning.png)
+
