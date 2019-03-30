@@ -16,7 +16,19 @@ RNN is a collection of GRU (or LSTM) blocks, GRU comprise of update gate, reset 
 Referring to [Keras-image-ocr](https://github.com/Tony607/keras-image-ocr) reading a lot of useful information from data images.
 ![Alt text](read_pic/arch.png)
 
+## Install packages
+ 
+ !pip install -q cairocffi editdistance
+ !apt install -q libcairo2-dev
+ !apt install -q graphviz
+ !pip install -q pydot
+ !pip install -q matplotlib graphviz pydot
+
 ## Some results
 
-![Alt text](read_pic/machine.png) ![Alt text](read_pic/learning.png)
+![Alt text](read_pic/machine.png) 
+```
+==============================================================================================================
+```
+![Alt text](read_pic/learning.png)
 
