@@ -2,7 +2,7 @@
  The combination of Convolutional Neural Network and Recurrent Neural Network builds a model which has the ability to recognize a sequence of characters from images.
  
 ## Convolutional Neural Network
-Convolutional layers and fully connected layers extract the data and classify into N-classes input.   
+Convolutional layers and fully connected layers extract the data and classify into N-classes output.   
 
 ![Alt text](read_pic/cnn.png)
 
