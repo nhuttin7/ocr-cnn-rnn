@@ -22,6 +22,7 @@ from keras.optimizers import SGD
 from keras.utils.data_utils import get_file
 from keras.preprocessing import image
 import keras.callbacks
+from train_save import TextImageGenerator
 """=========================================================================="""
 
 """=========================================================================="""
